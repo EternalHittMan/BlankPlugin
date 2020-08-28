@@ -1,0 +1,11 @@
+name: BlankPlugin
+version: 1.0.0
+author: EternalHittMan
+main: online.gamerway.deneme.plugin
+
+
+commands:
+  testcmd:
+    description: Main command
+    usage: /frp
+    aliases: [cmdtest, tcmd]
